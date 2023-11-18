@@ -2,7 +2,7 @@
 
 A Web App to predict the onset of diabetes based on diagnostic measures. 
 
-App is deployed in Heroku, click the link to access it : [Open in Streamlit] https://diabetes-predictionapp-39qk5nxc4waqns4dhjdahj.streamlit.app/
+App is deployed in Streamlit, click the link to access it : [Open in Streamlit] https://diabetes-predictionapp-39qk5nxc4waqns4dhjdahj.streamlit.app/
 
 
 ## Data
